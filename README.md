@@ -1,24 +1,8 @@
-### Hi there 👋, I'm [sliveryou!](https://github.com/sliveryou)
+### 👋 Hi geeks, I'm SliverYou
 
-<!--
-**sliveryou/sliveryou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on golang web development
 
-Here are some ideas to get you started:
+- 💬 Ask me about anything [here](https://github.com/sliveryou/sliveryou/issues)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<a href="https://github.com/sliveryou">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sliveryou&count_private=true&show_icons=true&include_all_commits=true&hide=contribs" />
-</a>
-
-<a href="https://github.com/sliveryou">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sliveryou&show_icons=true&count_private=true&layout=compact&langs_count=8&hide=html,css" />
-</a>
+| <a href="https://github.com/sliveryou"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sliveryou&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sliveryou's github stats" /></a> | <a href="https://github.com/sliveryou"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sliveryou&layout=compact&theme=buefy&hide_border=true&hide=html,css&langs_count=6" /></a> |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
