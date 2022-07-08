@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm [sliveryou!](https://github.com/sliveryou)
 
 <!--
 **sliveryou/sliveryou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/sliveryou">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sliveryou&count_private=true&show_icons=true&include_all_commits=true&hide=contribs" />
+</a>
+
+<a href="https://github.com/sliveryou">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sliveryou&show_icons=true&count_private=true&layout=compact&langs_count=8&hide=html,css" />
+</a>
